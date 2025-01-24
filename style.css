@@ -1,10 +1,18 @@
+* {
+    box-sizing: border-box;
+}
 
 h2.emphasize {
     color: seagreen;
 }
 
-div.inner p {
+h2.quote {
+    color: blueviolet;
     font-style: italic;
+}
+
+div {
+    padding: 36px 72px;
 }
 
 img {
