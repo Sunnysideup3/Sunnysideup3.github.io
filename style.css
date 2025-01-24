@@ -17,7 +17,11 @@ div.inner {
 }
 
 img {
-    object-fit: contain; 
+    object-fit: contain;
+}
+
+div.container {
+    width: 50px;
 }
 
 html {
@@ -29,4 +33,6 @@ h1 {
     font-size: 0.5rem;
     font-weight: bold;
 }
+
+
 
